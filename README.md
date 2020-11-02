@@ -54,4 +54,5 @@ Highlights
 This soothsaying programming is particularly planned remembering portability and moment computations. For instance you can quickly know the Ruling Planet of whenever, cast Horary horoscope while on move and so forth. There is no compelling reason to convey Ephemeris, Panchang, Tables of Houses, Tables of Ascendants, and Tables of Horary Numbers and so on.
 
 For support and documentation : https://ommrudraksha.com/astro
+
 Delete Project extension : https://marketplace.visualstudio.com/publishers/Rudrakshagems1
